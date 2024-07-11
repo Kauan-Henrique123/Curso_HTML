@@ -1,0 +1,42 @@
+/* Resetando as configurações padrão do CSS */
+
+/* Comandos */
+
+/* color:   ;  da cor para a letra. */
+/* text-aling:  center  ; posiciona o texto na pagina.  */
+/* font-family:  ; Adiciona fonte a letra. */
+/* font-size: 30px ; tamanho da letra  */
+
+*{
+margin: 0  ;
+padding: 0 ;
+box-sizing: border-box;
+}
+
+h1{
+/* color: red; */
+color:#0099ff ;
+/* border: 1px solid red; */
+text-align: center;
+background-color: #000000;
+
+}
+ 
+h2{
+
+    color: white;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: #000000;
+}
+
+h3{
+
+color: rgb(126, 255, 51);
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+font-size: 30px;
+background-color: #000000;
+}
+
